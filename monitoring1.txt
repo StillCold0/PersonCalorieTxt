@@ -1,0 +1,231 @@
+[People{Id=11234  name=murat  gender=male  height=78  weight=175  age=35}
+, People{Id=11235  name=ayse  gender=female  height=61  weight=172  age=36}
+, People{Id=11236  name=ahmet  gender=male  height=87  weight=184  age=50}
+, People{Id=11237  name=mehmet  gender=male  height=75  weight=175  age=37}
+, People{Id=11238  name=ali  gender=male  height=87  weight=178  age=38}
+, People{Id=11239  name=veli  gender=male  height=56  weight=165  age=34}
+, People{Id=12234  name=mecit  gender=male  height=84  weight=178  age=28}
+, People{Id=12235  name=ihsan  gender=male  height=84  weight=179  age=29}
+, People{Id=12236  name=enver  gender=male  height=81  weight=195  age=23}
+, People{Id=12237  name=mustafa  gender=male  height=75  weight=174  age=27}
+, People{Id=12238  name=arzu  gender=female  height=65  weight=169  age=40}
+, People{Id=12239  name=semih  gender=male  height=56  weight=169  age=21}
+, People{Id=12241  name=eren  gender=male  height=78  weight=196  age=31}
+, People{Id=12242  name=eyup  gender=male  height=54  weight=165  age=32}
+, People{Id=12243  name=fatih  gender=male  height=78  weight=192  age=35}
+, People{Id=12334  name=fatma  gender=female  height=81  weight=178  age=51}
+, People{Id=12335  name=ayse  gender=male  height=56  weight=166  age=37}
+, People{Id=12336  name=burcu  gender=female  height=84  weight=163  age=38}
+, People{Id=12337  name=selma  gender=male  height=56  weight=162  age=37}
+, People{Id=12338  name=mecit  gender=male  height=82  weight=179  age=53}
+, People{Id=12339  name=enver  gender=male  height=99  weight=178  age=39}
+, People{Id=12341  name=arzu  gender=female  height=78  weight=179  age=38}
+, People{Id=12342  name=semih  gender=male  height=78  weight=168  age=23}
+, People{Id=12343  name=gizem  gender=female  height=56  weight=169  age=58}
+, People{Id=12344  name=hasan  gender=male  height=78  weight=197  age=44}
+, People{Id=12345  name=feyza  gender=female  height=76  weight=178  age=44}
+, People{Id=12346  name=ali  gender=male  height=96  weight=199  age=32}
+, People{Id=12347  name=servet  gender=male  height=76  weight=165  age=54}
+, People{Id=12348  name=dogan  gender=male  height=81  weight=180  age=58}
+, People{Id=12349  name=kadriye  gender=female  height=75  weight=165  age=53}
+, People{Id=12351  name=kasim  gender=male  height=78  weight=175  age=38}
+, People{Id=12352  name=meryem  gender=female  height=71  weight=162  age=62}
+, People{Id=12353  name=murat  gender=male  height=81  weight=186  age=29}
+, People{Id=12354  name=hatice  gender=female  height=78  weight=166  age=71}
+, People{Id=12355  name=emine  gender=female  height=71  weight=171  age=54}
+, People{Id=12356  name=musa  gender=male  height=85  weight=175  age=34}
+, People{Id=12357  name=cahit  gender=male  height=86  weight=179  age=44}
+, People{Id=12358  name=ercan  gender=male  height=87  weight=178  age=46}
+, People{Id=12359  name=halil  gender=male  height=78  weight=174  age=60}
+, People{Id=12361  name=orhan  gender=male  height=78  weight=169  age=53}
+, People{Id=12362  name=bilal  gender=male  height=69  weight=171  age=40}
+, People{Id=12363  name=zeynep  gender=female  height=71  weight=166  age=63}
+, People{Id=12364  name=esra  gender=female  height=56  weight=169  age=30}
+, People{Id=12365  name=melih  gender=male  height=87  weight=186  age=25}
+, People{Id=12366  name=said  gender=female  height=73  weight=183  age=28}
+, People{Id=12367  name=emin  gender=male  height=71  weight=177  age=61}
+, People{Id=12368  name=hacer  gender=female  height=65  weight=165  age=53}
+, People{Id=12369  name=veli  gender=male  height=76  weight=182  age=34}
+]
+
+[Sport{id=2001 isim='archery kalori=170}
+, Sport{id=2002 isim='badminton kalori=408}
+, Sport{id=2003 isim='basketball kalori=476}
+, Sport{id=2004 isim='billiards kalori=102}
+, Sport{id=2005 isim='bowling kalori=134}
+, Sport{id=2006 isim='boxing kalori=340}
+, Sport{id=2007 isim='broomball kalori=408}
+, Sport{id=2008 isim='curling kalori=204}
+, Sport{id=2009 isim='croquet kalori=102}
+, Sport{id=2010 isim='darts kalori=102}
+, Sport{id=2011 isim='dragracing kalori=340}
+, Sport{id=2012 isim='fencing kalori=340}
+, Sport{id=2013 isim='football kalori=476}
+, Sport{id=2014 isim='frisbee kalori=136}
+, Sport{id=2015 isim='golf kalori=238}
+, Sport{id=2016 isim='gymnastics kalori=204}
+, Sport{id=2017 isim='hacky kalori=205}
+, Sport{id=2018 isim='handball kalori=476}
+, Sport{id=2019 isim='hockey kalori=466}
+, Sport{id=2020 isim='horseriding kalori=204}
+, Sport{id=2021 isim='juggling kalori=204}
+, Sport{id=2022 isim='kickball kalori=408}
+, Sport{id=2023 isim='lacrosse kalori=326}
+, Sport{id=2024 isim='motorcross kalori=204}
+, Sport{id=2025 isim='orienteering kalori=544}
+, Sport{id=2026 isim='paddleball kalori=610}
+, Sport{id=2027 isim='racquetball kalori=408}
+, Sport{id=2028 isim='rockclimbing kalori=475}
+, Sport{id=2029 isim='ropejumping kalori=612}
+, Sport{id=2030 isim='rugby kalori=612}
+, Sport{id=2031 isim='shuffleboard kalori=136}
+, Sport{id=2032 isim='skateboarding kalori=272}
+, Sport{id=2033 isim='skating kalori=408}
+, Sport{id=2034 isim='rollerblading kalori=748}
+, Sport{id=2035 isim='squash kalori=741}
+, Sport{id=2036 isim='tabletennis kalori=204}
+, Sport{id=2037 isim='tennis kalori=408}
+, Sport{id=2038 isim='volleyball kalori=345}
+, Sport{id=2039 isim='fitness kalori=467}
+, Sport{id=2040 isim='yoga kalori=322}
+, Sport{id=2041 isim='cycling kalori=565}
+, Sport{id=2042 isim='bushwalking kalori=422}
+, Sport{id=2043 isim='biking kalori=578}
+, Sport{id=2044 isim='dancing kalori=621}
+, Sport{id=2045 isim='jogging kalori=775}
+]
+
+[Food{id=1001 isim=elma kalori=87}
+, Food{id=1002 isim=muz kalori=98}
+, Food{id=1003 isim=avocado kalori=221}
+, Food{id=1004 isim=blackberry kalori=64}
+, Food{id=1005 isim=armut kalori=79}
+, Food{id=1006 isim=ayva kalori=91}
+, Food{id=1007 isim=erik kalori=65}
+, Food{id=1008 isim=greyfurt kalori=69}
+, Food{id=1009 isim=kavun kalori=59}
+, Food{id=1010 isim=incir kalori=78}
+, Food{id=1011 isim=mandalina kalori=74}
+, Food{id=1012 isim=karpuz kalori=49}
+, Food{id=1013 isim=mango kalori=76}
+, Food{id=1014 isim=nar kalori=95}
+, Food{id=1015 isim=nektarin kalori=64}
+, Food{id=1016 isim=grape kalori=92}
+, Food{id=1017 isim=portakal kalori=67}
+, Food{id=1018 isim=yabanmersini kalori=77}
+, Food{id=1019 isim=kiraz kalori=66}
+, Food{id=1020 isim=papaya kalori=63}
+, Food{id=1101 isim=makarna kalori=231}
+, Food{id=1102 isim=karniyarik kalori=497}
+, Food{id=1103 isim=dolma kalori=385}
+, Food{id=1104 isim=kilistava kalori=482}
+, Food{id=1105 isim=lahmacun kalori=185}
+, Food{id=1106 isim=barbunya kalori=428}
+, Food{id=1107 isim=kurufasulye kalori=431}
+, Food{id=1108 isim=manti kalori=468}
+, Food{id=1109 isim=pilav kalori=420}
+, Food{id=1110 isim=pizza kalori=684}
+, Food{id=1111 isim=fish kalori=385}
+, Food{id=1112 isim=inegolkofte kalori=425}
+, Food{id=1113 isim=kuzucevirme kalori=625}
+, Food{id=1114 isim=tavukizgara kalori=556}
+, Food{id=1115 isim=saksuka kalori=323}
+, Food{id=1116 isim=kapuska kalori=321}
+, Food{id=1117 isim=pirasa kalori=313}
+, Food{id=1118 isim=corba kalori=193}
+, Food{id=1119 isim=kadinbudukofte kalori=541}
+, Food{id=1120 isim=etdoner kalori=453}
+, Food{id=1121 isim=tavukdoner kalori=420}
+, Food{id=1122 isim=ispanak kalori=255}
+, Food{id=1123 isim=hamburger kalori=621}
+, Food{id=1124 isim=danahaslama kalori=458}
+, Food{id=1125 isim=taskebap kalori=610}
+, Food{id=1126 isim=mucver kalori=411}
+, Food{id=1127 isim=hindisis kalori=425}
+, Food{id=1128 isim=iclikofte kalori=555}
+, Food{id=1129 isim=kellepaca kalori=321}
+, Food{id=1130 isim=cigerkavurma kalori=521}
+, Food{id=1131 isim=patlicankebabi kalori=429}
+, Food{id=1132 isim=etliekmek kalori=223}
+, Food{id=1133 isim=guvec kalori=366}
+, Food{id=1201 isim=kadayif kalori=652}
+, Food{id=1202 isim=asure kalori=554}
+, Food{id=1203 isim=baklava kalori=504}
+, Food{id=1204 isim=ekler kalori=337}
+, Food{id=1205 isim=puding kalori=500}
+, Food{id=1206 isim=irmikhelvasi kalori=530}
+, Food{id=1207 isim=kabaktatlisi kalori=340}
+, Food{id=1208 isim=cheesecake kalori=321}
+, Food{id=1209 isim=muhallebi kalori=275}
+, Food{id=1210 isim=profiterol kalori=391}
+, Food{id=1211 isim=revani kalori=501}
+, Food{id=1212 isim=spangle kalori=345}
+, Food{id=1213 isim=sutlac kalori=240}
+, Food{id=1214 isim=sekerpare kalori=241}
+, Food{id=1215 isim=tulumba kalori=102}
+, Food{id=1216 isim=tiramisu kalori=350}
+, Food{id=1217 isim=peynirhelvasi kalori=451}
+, Food{id=1218 isim=keskul kalori=354}
+, Food{id=1219 isim=kazandibi kalori=356}
+, Food{id=1220 isim=elmalitart kalori=367}
+, Food{id=1301 isim=findik kalori=567}
+, Food{id=1302 isim=badem kalori=622}
+, Food{id=1303 isim=antepfistik kalori=544}
+, Food{id=1304 isim=ceviz kalori=552}
+, Food{id=1305 isim=peanut kalori=432}
+, Food{id=1306 isim=leblebi kalori=310}
+, Food{id=1307 isim=kaju kalori=677}
+, Food{id=1308 isim=misir kalori=566}
+, Food{id=1309 isim=kabakcekirdegi kalori=655}
+, Food{id=1310 isim=aycekirdegi kalori=566}
+]
+
+[id=11234 gunluk kalori ihtiyacı=2313
+, id=11235 gunluk kalori ihtiyacı=2250
+, id=11236 gunluk kalori ihtiyacı=2344
+, id=11237 gunluk kalori ihtiyacı=2298
+, id=11238 gunluk kalori ihtiyacı=2343
+, id=11239 gunluk kalori ihtiyacı=2184
+, id=12234 gunluk kalori ihtiyacı=2385
+, id=12235 gunluk kalori ihtiyacı=2389
+, id=12236 gunluk kalori ihtiyacı=2566
+, id=12237 gunluk kalori ihtiyacı=2335
+, id=12238 gunluk kalori ihtiyacı=2209
+, id=12239 gunluk kalori ihtiyacı=2283
+, id=12241 gunluk kalori ihtiyacı=2533
+, id=12242 gunluk kalori ihtiyacı=2190
+, id=12243 gunluk kalori ihtiyacı=2476
+, id=12334 gunluk kalori ihtiyacı=2271
+, id=12335 gunluk kalori ihtiyacı=2179
+, id=12336 gunluk kalori ihtiyacı=2194
+, id=12337 gunluk kalori ihtiyacı=2141
+, id=12338 gunluk kalori ihtiyacı=2273
+, id=12339 gunluk kalori ihtiyacı=2358
+, id=12341 gunluk kalori ihtiyacı=2337
+, id=12342 gunluk kalori ihtiyacı=2302
+, id=12343 gunluk kalori ihtiyacı=2109
+, id=12344 gunluk kalori ihtiyacı=2481
+, id=12345 gunluk kalori ihtiyacı=2296
+, id=12346 gunluk kalori ihtiyacı=2588
+, id=12347 gunluk kalori ihtiyacı=2124
+, id=12348 gunluk kalori ihtiyacı=2258
+, id=12349 gunluk kalori ihtiyacı=2127
+, id=12351 gunluk kalori ihtiyacı=2299
+, id=12352 gunluk kalori ihtiyacı=2049
+, id=12353 gunluk kalori ihtiyacı=2451
+, id=12354 gunluk kalori ihtiyacı=2057
+, id=12355 gunluk kalori ihtiyacı=2173
+, id=12356 gunluk kalori ihtiyacı=2329
+, id=12357 gunluk kalori ihtiyacı=2322
+, id=12358 gunluk kalori ihtiyacı=2305
+, id=12359 gunluk kalori ihtiyacı=2185
+, id=12361 gunluk kalori ihtiyacı=2170
+, id=12362 gunluk kalori ihtiyacı=2235
+, id=12363 gunluk kalori ihtiyacı=2083
+, id=12364 gunluk kalori ihtiyacı=2241
+, id=12365 gunluk kalori ihtiyacı=2481
+, id=12366 gunluk kalori ihtiyacı=2414
+, id=12367 gunluk kalori ihtiyacı=2198
+, id=12368 gunluk kalori ihtiyacı=2110
+, id=12369 gunluk kalori ihtiyacı=2381
+]
